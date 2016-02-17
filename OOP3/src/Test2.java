@@ -7,7 +7,7 @@ public class Test2
 	
 	public String getData()
 	{
-		String name = JOptionPane.showInputDialog(null,"Enter name ","InputData",JOptionPane.QUESTION_MESSAGE);
+		String name = JOptionPane.showInputDialog(null,"Enter name ","Input Data",JOptionPane.QUESTION_MESSAGE);
 		name = name.toUpperCase();
 		return name;
 	}
