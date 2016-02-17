@@ -6,7 +6,7 @@ public class Test1
 	int Sec,Min,Hour,Day;
 	public void getData()
 	{
-		Sec = Integer.parseInt(JOptionPane.showInputDialog(null,"Enter Sec","Input",JOptionPane.QUESTION_MESSAGE));
+		Sec = Integer.parseInt(JOptionPane.showInputDialog(null,"Enter Secc","Input",JOptionPane.QUESTION_MESSAGE));
 	}
 	public void Calc()
 	{
